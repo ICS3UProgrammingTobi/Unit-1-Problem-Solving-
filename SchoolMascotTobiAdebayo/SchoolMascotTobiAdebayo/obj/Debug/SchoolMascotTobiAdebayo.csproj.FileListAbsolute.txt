@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\bin\Debug\SchoolMascotTobiAdebayo.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\bin\Debug\SchoolMascotTobiAdebayo.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\bin\Debug\SchoolMascotTobiAdebayo.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\obj\Debug\SchoolMascotTobiAdebayo.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\obj\Debug\SchoolMascotTobiAdebayo.SchoolMascotForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\obj\Debug\SchoolMascotTobiAdebayo.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\obj\Debug\SchoolMascotTobiAdebayo.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\obj\Debug\SchoolMascotTobiAdebayo.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\obj\Debug\SchoolMascotTobiAdebayo.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\SchoolMascotTobiAdebayo\SchoolMascotTobiAdebayo\obj\Debug\SchoolMascotTobiAdebayo.pdb

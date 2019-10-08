@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ChangingAreaToVolumeTobi
+namespace ChangingAreAndPerimeterTobi
 {
-    static class Program
+    static class ChangingAreaAndPerimeter
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace ChangingAreaToVolumeTobi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmChangingAreaAndPerimeter());
         }
     }
 }

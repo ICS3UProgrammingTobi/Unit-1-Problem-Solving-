@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ChangingAreaToVolumeTobi
+namespace ChangingAreAndPerimeterTobi
 {
-    public partial class Form1 : Form
+    public partial class frmChangingAreaAndPerimeter : Form
     {
-        public Form1()
+        public frmChangingAreaAndPerimeter()
         {
             InitializeComponent();
         }

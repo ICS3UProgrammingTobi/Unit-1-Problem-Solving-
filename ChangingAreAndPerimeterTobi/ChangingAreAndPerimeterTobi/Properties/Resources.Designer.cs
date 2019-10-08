@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ChangingAreaToVolumeTobi.Properties
+namespace ChangingAreAndPerimeterTobi.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ChangingAreaToVolumeTobi.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ChangingAreaToVolumeTobi.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ChangingAreAndPerimeterTobi.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

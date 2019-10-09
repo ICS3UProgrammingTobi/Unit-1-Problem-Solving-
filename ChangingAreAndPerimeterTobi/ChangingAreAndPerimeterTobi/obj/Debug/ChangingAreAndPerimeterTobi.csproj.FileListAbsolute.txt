@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\bin\Debug\ChangingAreAndPerimeterTobi.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\bin\Debug\ChangingAreAndPerimeterTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\bin\Debug\ChangingAreAndPerimeterTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\obj\Debug\ChangingAreAndPerimeterTobi.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\obj\Debug\ChangingAreAndPerimeterTobi.frmChangingAreaAndPerimeter.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\obj\Debug\ChangingAreAndPerimeterTobi.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\obj\Debug\ChangingAreAndPerimeterTobi.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\obj\Debug\ChangingAreAndPerimeterTobi.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\obj\Debug\ChangingAreAndPerimeterTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 1 (Problem Solving)\ChangingAreAndPerimeterTobi\ChangingAreAndPerimeterTobi\obj\Debug\ChangingAreAndPerimeterTobi.pdb

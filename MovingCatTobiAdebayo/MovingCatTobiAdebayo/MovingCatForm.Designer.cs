@@ -79,14 +79,14 @@
             // mniCat1
             // 
             this.mniCat1.Name = "mniCat1";
-            this.mniCat1.Size = new System.Drawing.Size(126, 26);
+            this.mniCat1.Size = new System.Drawing.Size(224, 26);
             this.mniCat1.Text = "cat 1";
             this.mniCat1.Click += new System.EventHandler(this.MniCat1_Click);
             // 
             // mniCat2
             // 
             this.mniCat2.Name = "mniCat2";
-            this.mniCat2.Size = new System.Drawing.Size(126, 26);
+            this.mniCat2.Size = new System.Drawing.Size(224, 26);
             this.mniCat2.Text = "Cat 2";
             this.mniCat2.Click += new System.EventHandler(this.MniCat2_Click);
             // 
@@ -94,12 +94,13 @@
             // 
             this.picCat.Image = global::MovingCatTobiAdebayo.Properties.Resources.cat1;
             this.picCat.Location = new System.Drawing.Point(55, 62);
-            this.picCat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picCat.Margin = new System.Windows.Forms.Padding(4);
             this.picCat.Name = "picCat";
             this.picCat.Size = new System.Drawing.Size(148, 161);
             this.picCat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picCat.TabIndex = 2;
             this.picCat.TabStop = false;
+            this.picCat.Click += new System.EventHandler(this.picCat_Click);
             // 
             // frmMovingCat
             // 
@@ -109,7 +110,7 @@
             this.Controls.Add(this.picCat);
             this.Controls.Add(this.mnuExitCat);
             this.MainMenuStrip = this.mnuExitCat;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmMovingCat";
             this.Text = "Moving Cat ";
             this.mnuExitCat.ResumeLayout(false);

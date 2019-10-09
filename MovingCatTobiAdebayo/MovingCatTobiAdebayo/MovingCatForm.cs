@@ -24,11 +24,13 @@ namespace MovingCatTobiAdebayo
             InitializeComponent();
         }
 
+       //creating the exit button
         private void MniExit_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        //assigning the pictures to a menue item
         private void MniCat1_Click(object sender, EventArgs e)
         {
             this.picCat.Image = Properties.Resources.cat1;
@@ -37,6 +39,11 @@ namespace MovingCatTobiAdebayo
         private void MniCat2_Click(object sender, EventArgs e)
         {
             this.picCat.Image = Properties.Resources.cat2;
+        }
+
+        private void picCat_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

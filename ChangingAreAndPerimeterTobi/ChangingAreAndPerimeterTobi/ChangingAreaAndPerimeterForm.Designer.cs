@@ -39,7 +39,7 @@
             this.lblPerimeter = new System.Windows.Forms.Label();
             this.lblArea = new System.Windows.Forms.Label();
             this.lblPerimterAnswer = new System.Windows.Forms.Label();
-            this.lblWidthAnswer = new System.Windows.Forms.Label();
+            this.lblAreaAnswer = new System.Windows.Forms.Label();
             this.mnuFile.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -64,7 +64,7 @@
             // mniExit
             // 
             this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(180, 22);
+            this.mniExit.Size = new System.Drawing.Size(93, 22);
             this.mniExit.Text = "Exit";
             this.mniExit.Click += new System.EventHandler(this.MniExit_Click);
             // 
@@ -136,27 +136,30 @@
             // lblPerimterAnswer
             // 
             this.lblPerimterAnswer.AutoSize = true;
-            this.lblPerimterAnswer.Location = new System.Drawing.Point(335, 261);
+            this.lblPerimterAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPerimterAnswer.Location = new System.Drawing.Point(341, 261);
             this.lblPerimterAnswer.Name = "lblPerimterAnswer";
-            this.lblPerimterAnswer.Size = new System.Drawing.Size(35, 13);
+            this.lblPerimterAnswer.Size = new System.Drawing.Size(76, 25);
             this.lblPerimterAnswer.TabIndex = 8;
             this.lblPerimterAnswer.Text = "label3";
+            this.lblPerimterAnswer.Click += new System.EventHandler(this.LblPerimterAnswer_Click);
             // 
-            // lblWidthAnswer
+            // lblAreaAnswer
             // 
-            this.lblWidthAnswer.AutoSize = true;
-            this.lblWidthAnswer.Location = new System.Drawing.Point(341, 322);
-            this.lblWidthAnswer.Name = "lblWidthAnswer";
-            this.lblWidthAnswer.Size = new System.Drawing.Size(35, 13);
-            this.lblWidthAnswer.TabIndex = 9;
-            this.lblWidthAnswer.Text = "label4";
+            this.lblAreaAnswer.AutoSize = true;
+            this.lblAreaAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAreaAnswer.Location = new System.Drawing.Point(341, 322);
+            this.lblAreaAnswer.Name = "lblAreaAnswer";
+            this.lblAreaAnswer.Size = new System.Drawing.Size(76, 25);
+            this.lblAreaAnswer.TabIndex = 9;
+            this.lblAreaAnswer.Text = "label4";
             // 
             // frmChangingAreaAndPerimeter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(680, 383);
-            this.Controls.Add(this.lblWidthAnswer);
+            this.Controls.Add(this.lblAreaAnswer);
             this.Controls.Add(this.lblPerimterAnswer);
             this.Controls.Add(this.lblArea);
             this.Controls.Add(this.lblPerimeter);
@@ -189,7 +192,7 @@
         private System.Windows.Forms.Label lblPerimeter;
         private System.Windows.Forms.Label lblArea;
         private System.Windows.Forms.Label lblPerimterAnswer;
-        private System.Windows.Forms.Label lblWidthAnswer;
+        private System.Windows.Forms.Label lblAreaAnswer;
     }
 }
 

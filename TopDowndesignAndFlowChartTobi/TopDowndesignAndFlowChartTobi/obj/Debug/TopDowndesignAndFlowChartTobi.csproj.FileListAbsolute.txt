@@ -1,0 +1,9 @@
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\bin\Debug\TopDowndesignAndFlowChartTobi.exe.config
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\bin\Debug\TopDowndesignAndFlowChartTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\bin\Debug\TopDowndesignAndFlowChartTobi.pdb
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\obj\Debug\TopDowndesignAndFlowChartTobi.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\obj\Debug\TopDowndesignAndFlowChartTobi.TopDownDesignAndFlowChartForm.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\obj\Debug\TopDowndesignAndFlowChartTobi.Properties.Resources.resources
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\obj\Debug\TopDowndesignAndFlowChartTobi.csproj.GenerateResource.cache
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\obj\Debug\TopDowndesignAndFlowChartTobi.exe
+C:\Users\Tobi\Documents\GitHub\ICS3U Programming\Unit-1-Problem-Solving-\TopDowndesignAndFlowChartTobi\TopDowndesignAndFlowChartTobi\obj\Debug\TopDowndesignAndFlowChartTobi.pdb

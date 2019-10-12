@@ -23,7 +23,7 @@ namespace SchoolMascotTobiAdebayo
         {
             InitializeComponent();
         }
-
+        //Assign a menu its to each school name and mascot
         private void ImmaculataToolStripMenuItem_Click(object sender, EventArgs e)
         {
             lblSchoolName.Text = "Immaculata";
